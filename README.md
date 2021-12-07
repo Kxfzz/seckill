@@ -1,3 +1,6 @@
+特别申明：感谢   https://github.com/Grootzz/seckill           的静态资源和md文件
+静态资源和md文件都是从上面链接而来 
+
 # 高性能高并发商品秒杀系统设计与优化
 
 [TOC]
